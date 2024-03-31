@@ -1,6 +1,6 @@
 import threading
 import sys
-from Server import Server
+from server import Server
 from Node import Node
 
 class Main:
